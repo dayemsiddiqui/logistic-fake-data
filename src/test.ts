@@ -1,5 +1,5 @@
-import { generateCollection } from '../dist';
 import { DataType, UtilityType } from './data';
+import { generateCollection } from './DataGenerator';
 
 export const main = () => {
   const fake = generateCollection(
