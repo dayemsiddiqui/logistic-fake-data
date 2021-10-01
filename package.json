@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start:dev": "nodemon",
-    "prepare": "rimraf dist; tsc"
+    "prepare": "rimraf dist; npm version patch ;tsc"
   },
   "dependencies": {
     "@types/lodash": "^4.14.175",
