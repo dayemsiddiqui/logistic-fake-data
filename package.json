@@ -1,6 +1,6 @@
 {
   "name": "logistics-data-faker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates fake data for the logistics industry",
   "author": "Dayem Siddiqui",
   "license": "MIT",
